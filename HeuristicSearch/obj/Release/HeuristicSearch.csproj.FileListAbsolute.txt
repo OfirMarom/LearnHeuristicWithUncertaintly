@@ -1,0 +1,14 @@
+C:\OfirStuff\Programmes\Reinforcement Learning\HS2\HeuristicSearch\HeuristicSearch\bin\Release\HeuristicSearch.exe.config
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\HeuristicSearch.exe.config
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\libtensorflow.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\x64\libiomp5md.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\x64\MathNet.Numerics.MKL.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\MathNet.Numerics.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\TensorFlowSharp.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\MathNet.Numerics.xml
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\Release\TensorFlowSharp.xml
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\obj\Release\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\obj\Release\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\obj\Release\HeuristicSearch.csprojResolveAssemblyReference.cache

@@ -1,0 +1,45 @@
+C:\OfirStuff\Programmes\Reinforcement Learning\HS2\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe.config
+C:\OfirStuff\Programmes\Reinforcement Learning\HS2\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS2\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS2\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.csprojResolveAssemblyReference.cache
+C:\OfirStuff\Programmes\Reinforcement Learning\HS2\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS2\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS3\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe.config
+C:\OfirStuff\Programmes\Reinforcement Learning\HS3\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS3\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS3\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.csprojResolveAssemblyReference.cache
+C:\OfirStuff\Programmes\Reinforcement Learning\HS3\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS3\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS4\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.csprojResolveAssemblyReference.cache
+C:\OfirStuff\Programmes\Reinforcement Learning\HS4\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe.config
+C:\OfirStuff\Programmes\Reinforcement Learning\HS4\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS4\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS4\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS4\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe.config
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.csprojResolveAssemblyReference.cache
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.pdb
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\libtensorflow.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\x64\libiomp5md.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\x64\MathNet.Numerics.MKL.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\MathNet.Numerics.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\TensorFlowSharp.dll
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\MathNet.Numerics.xml
+C:\OfirStuff\Programmes\Reinforcement Learning\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\TensorFlowSharp.xml
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe.config
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.exe
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\HeuristicSearch.pdb
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\MathNet.Numerics.dll
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\TensorFlowSharp.dll
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\MathNet.Numerics.xml
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\TensorFlowSharp.xml
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.csprojAssemblyReference.cache
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.csproj.CopyComplete
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.exe
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\obj\x64\Debug\HeuristicSearch.pdb
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\libtensorflow.dll
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\x64\libiomp5md.dll
+C:\Stuff\PhD\HS\HeuristicSearch\HeuristicSearch\bin\x64\Debug\x64\MathNet.Numerics.MKL.dll
